@@ -30,6 +30,14 @@ cd backend
 
 Create a `.env` file in the project root and add the required environment variables (database credentials, port, etc.) before running the server.
 
+.env.example
+
+DB_NAME=exmaple
+DB_USERNAME=example
+DB_PASSWORD=example
+DB_HOST=example
+port=example
+
 ---
 
 ## 📦 Installation and Running the Server
